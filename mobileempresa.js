@@ -3,7 +3,7 @@ var actualPersonal = document.getElementsByClassName("p");
 var actualMovistar = document.getElementsByClassName("m");
 var actualLn = document.getElementsByClassName("l");
 var archivoTXT = new XMLHttpRequest();
-var fileRuta = 'mobile.txt';
+var fileRuta = 'mobileempresa.txt';
 
 archivoTXT.open("GET", fileRuta, false);
 archivoTXT.send(null);

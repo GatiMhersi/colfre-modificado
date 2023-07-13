@@ -1,4 +1,4 @@
-var dato = document.getElementsByClassName("precio-anterior");
+var dato = document.getElementsByClassName("mobiles");
 var actualPersonal = document.getElementsByClassName("p");
 var actualMovistar = document.getElementsByClassName("m");
 var actualLn = document.getElementsByClassName("l");

@@ -1,4 +1,4 @@
-var actual = document.getElementsByClassName("precio-actual");
+var actual = document.getElementsByClassName("tv");
 var archivoTXT = new XMLHttpRequest();
 var fileRuta = 'tv.txt';
 

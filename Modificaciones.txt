@@ -1,0 +1,12 @@
++ Agregarle gratis a la parte de fibra Optica ♥
++ Hacer parte de RRHH(recursos HumanoS)♥
++ Modificar nro de wsp= +543585600217
++ Agregar 4 pestañas mas:
+      -Quienes Somos
+      -Chips
+      -Atencion al Cliente
+      -Carga virtual
++ Modificar Imagen de portada de la pagina principal ♥
++ Solucionar solapamiento de botones con el titulo de colfre comunicaciones en el home ♥
++ Agrandar la letra y los numeros de telefono en la parte de LOCALES ♥
++ Generar parte en donde puedan generar una consulta: Nombre, nro de telefono y tipo de consulta
